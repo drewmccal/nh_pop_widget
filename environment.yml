@@ -4,3 +4,4 @@ dependencies:
   - matplotlib
   - rtree
   - libspatialindex
+  - fiona==1.7.11
