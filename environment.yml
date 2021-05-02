@@ -1,7 +1,10 @@
 name: nhgeo
+channels:
+  - conda-forge
+  - defaults
 dependencies:
   - geopandas
   - matplotlib
   - rtree
   - libspatialindex
-  - fiona==1.8.13.post1
+  - fiona
