@@ -1,6 +1,5 @@
 name: nhgeo
 dependencies:
-  - pandas
   - geopandas
   - matplotlib
   - rtree
