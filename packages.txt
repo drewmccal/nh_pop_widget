@@ -1,3 +1,4 @@
 libspatialindex-dev
 libgeos-dev
 build-essential
+libgdal-dev
