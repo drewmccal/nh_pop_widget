@@ -4,3 +4,5 @@ dependencies:
   - matplotlib
   - rtree
   - libspatialindex
+  - gdal
+  - libgdal
