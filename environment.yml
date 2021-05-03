@@ -1,5 +1,0 @@
-name: nhgeo
-dependencies:
-  - matplotlib
-  - pip:
-    - libspatialindex
